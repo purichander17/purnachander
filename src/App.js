@@ -414,8 +414,8 @@ function Contact() {
           <div className="contact-info">
             {[
               { icon: "📍", label: "Location", val: "Hyderabad, Telangana\n(Native: Warangal)" },
-              { icon: "📱", label: "Phone / WhatsApp", val: "+91 XXXXX XXXXX\n(Call or WhatsApp anytime)" },
-              { icon: "✉️", label: "Email", val: "purnachander.tutor@gmail.com" },
+              { icon: "📱", label: "Phone / WhatsApp", val: "+91 9441336202\n(Call or WhatsApp anytime)" },
+              { icon: "✉️", label: "Email", val: "puri.chander15@gmail.com" },
               { icon: "🕐", label: "Available Hours", val: "Mon – Sat: 7 AM – 9 PM\nSunday: 9 AM – 6 PM" },
               { icon: "🌐", label: "Teaching Mode", val: "Offline (Hyderabad) &\nOnline (Pan-India)" },
             ].map((c, i) => (
@@ -451,14 +451,14 @@ function Contact() {
                     <label>Phone Number</label>
                     <input
                       name="phone" value={form.phone} onChange={handleChange}
-                      placeholder="+91 9441336202" required
+                      placeholder="+91 XXXXXXXXXX" required
                     />
                   </div>
                   <div className="form-group">
                     <label>Email</label>
                     <input
                       type="email" name="email" value={form.email} onChange={handleChange}
-                      placeholder="puri.chander17@gmail.com"
+                      placeholder="your@email.com"
                     />
                   </div>
                   <div className="form-group">
