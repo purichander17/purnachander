@@ -451,14 +451,14 @@ function Contact() {
                     <label>Phone Number</label>
                     <input
                       name="phone" value={form.phone} onChange={handleChange}
-                      placeholder="+91 XXXXX XXXXX" required
+                      placeholder="+91 9441336202" required
                     />
                   </div>
                   <div className="form-group">
                     <label>Email</label>
                     <input
                       type="email" name="email" value={form.email} onChange={handleChange}
-                      placeholder="your@email.com"
+                      placeholder="puri.chander17@gmail.com"
                     />
                   </div>
                   <div className="form-group">
