@@ -415,7 +415,7 @@ function Contact() {
             {[
               { icon: "📍", label: "Location", val: "Hyderabad, Telangana\n(Native: Warangal)" },
               { icon: "📱", label: "Phone / WhatsApp", val: "+91 9441336202\n(Call or WhatsApp anytime)" },
-              { icon: "✉️", label: "Email", val: "puri.chander15@gmail.com" },
+              { icon: "✉️", label: "Email", val: "puri.chander17@gmail.com" },
               { icon: "🕐", label: "Available Hours", val: "Mon – Sat: 7 AM – 9 PM\nSunday: 9 AM – 6 PM" },
               { icon: "🌐", label: "Teaching Mode", val: "Offline (Hyderabad) &\nOnline (Pan-India)" },
             ].map((c, i) => (
